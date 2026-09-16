@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+requests
+streamlit
+numpy
