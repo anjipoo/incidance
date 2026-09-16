@@ -75,8 +75,7 @@ ai-incident-resolver/
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd ai-incident-resolver
+git clone https://github.com/anjipoo/incidance.git
 
 python -m venv venv
 venv\Scripts\activate
